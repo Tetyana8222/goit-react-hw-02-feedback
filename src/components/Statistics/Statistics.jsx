@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 
 import { StatisticData, RateData, Cell, TotalData } from './Statistics.styled';
